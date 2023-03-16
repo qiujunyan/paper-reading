@@ -1,0 +1,48 @@
+<https://dblp.uni-trier.de/rec/conf/acl/2022-1> <http://www.w3.org/2002/07/owl#sameAs> <https://dblp.org/rec/conf/acl/2022-1> .
+<https://dblp.org/rec/conf/acl/2022-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Editorship> .
+<https://dblp.org/rec/conf/acl/2022-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Publication> .
+<https://dblp.org/rec/conf/acl/2022-1> <http://www.w3.org/2002/07/owl#sameAs> <urn:isbn:9781955917216> .
+<https://dblp.org/rec/conf/acl/2022-1> <http://www.w3.org/2000/01/rdf-schema#label> "Smaranda Muresan et al.: Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), ACL 2022, Dublin, Ireland, May 22-27, 2022 (2022)" .
+<https://dblp.org/rec/conf/acl/2022-1> <http://purl.org/spar/datacite/hasIdentifier> _:ID_cb64af24fece1851451c4c1a8c728c10 .
+_:ID_cb64af24fece1851451c4c1a8c728c10 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/datacite/ResourceIdentifier> .
+_:ID_cb64af24fece1851451c4c1a8c728c10 <http://purl.org/spar/datacite/usesIdentifierScheme> <http://purl.org/spar/datacite/dblp-record> .
+_:ID_cb64af24fece1851451c4c1a8c728c10 <http://purl.org/spar/literal/hasLiteralValue> "conf/acl/2022-1" .
+<https://dblp.org/rec/conf/acl/2022-1> <https://dblp.org/rdf/schema#isbn> <urn:isbn:9781955917216> .
+<https://dblp.org/rec/conf/acl/2022-1> <http://purl.org/spar/datacite/hasIdentifier> _:ID_7feb9e4b88129597f9a33b4115b70956 .
+_:ID_7feb9e4b88129597f9a33b4115b70956 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/datacite/ResourceIdentifier> .
+_:ID_7feb9e4b88129597f9a33b4115b70956 <http://purl.org/spar/datacite/usesIdentifierScheme> <http://purl.org/spar/datacite/isbn> .
+_:ID_7feb9e4b88129597f9a33b4115b70956 <http://purl.org/spar/literal/hasLiteralValue> "9781955917216" .
+<https://dblp.org/rec/conf/acl/2022-1> <https://dblp.org/rdf/schema#title> "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), ACL 2022, Dublin, Ireland, May 22-27, 2022" .
+<https://dblp.org/rec/conf/acl/2022-1> <https://dblp.org/rdf/schema#bibtexType> <http://purl.org/net/nknouf/ns/bibtex#Proceedings> .
+<https://dblp.org/rec/conf/acl/2022-1> <https://dblp.org/rdf/schema#editedBy> <https://dblp.org/pid/44/70> .
+<https://dblp.org/rec/conf/acl/2022-1> <https://dblp.org/rdf/schema#editedBy> <https://dblp.org/pid/19/1947> .
+<https://dblp.org/rec/conf/acl/2022-1> <https://dblp.org/rdf/schema#editedBy> <https://dblp.org/pid/v/AlineVillavicencio> .
+<https://dblp.org/rec/conf/acl/2022-1> <https://dblp.org/rdf/schema#numberOfCreators> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://dblp.org/rec/conf/acl/2022-1> <https://dblp.org/rdf/schema#hasSignature> _:Sig_f80e1e21a78b200d71c5bb17352f93cc_1 .
+_:Sig_f80e1e21a78b200d71c5bb17352f93cc_1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#EditorSignature> .
+_:Sig_f80e1e21a78b200d71c5bb17352f93cc_1 <https://dblp.org/rdf/schema#signatureDblpName> "Smaranda Muresan" .
+_:Sig_f80e1e21a78b200d71c5bb17352f93cc_1 <https://dblp.org/rdf/schema#signatureCreator> <https://dblp.org/pid/44/70> .
+_:Sig_f80e1e21a78b200d71c5bb17352f93cc_1 <https://dblp.org/rdf/schema#signatureOrdinal> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:Sig_f80e1e21a78b200d71c5bb17352f93cc_1 <https://dblp.org/rdf/schema#signaturePublication> <https://dblp.org/rec/conf/acl/2022-1> .
+<https://dblp.org/rec/conf/acl/2022-1> <https://dblp.org/rdf/schema#hasSignature> _:Sig_f80e1e21a78b200d71c5bb17352f93cc_2 .
+_:Sig_f80e1e21a78b200d71c5bb17352f93cc_2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#EditorSignature> .
+_:Sig_f80e1e21a78b200d71c5bb17352f93cc_2 <https://dblp.org/rdf/schema#signatureDblpName> "Preslav Nakov" .
+_:Sig_f80e1e21a78b200d71c5bb17352f93cc_2 <https://dblp.org/rdf/schema#signatureCreator> <https://dblp.org/pid/19/1947> .
+_:Sig_f80e1e21a78b200d71c5bb17352f93cc_2 <https://dblp.org/rdf/schema#signatureOrdinal> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:Sig_f80e1e21a78b200d71c5bb17352f93cc_2 <https://dblp.org/rdf/schema#signaturePublication> <https://dblp.org/rec/conf/acl/2022-1> .
+<https://dblp.org/rec/conf/acl/2022-1> <https://dblp.org/rdf/schema#hasSignature> _:Sig_f80e1e21a78b200d71c5bb17352f93cc_3 .
+_:Sig_f80e1e21a78b200d71c5bb17352f93cc_3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#EditorSignature> .
+_:Sig_f80e1e21a78b200d71c5bb17352f93cc_3 <https://dblp.org/rdf/schema#signatureDblpName> "Aline Villavicencio" .
+_:Sig_f80e1e21a78b200d71c5bb17352f93cc_3 <https://dblp.org/rdf/schema#signatureCreator> <https://dblp.org/pid/v/AlineVillavicencio> .
+_:Sig_f80e1e21a78b200d71c5bb17352f93cc_3 <https://dblp.org/rdf/schema#signatureOrdinal> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:Sig_f80e1e21a78b200d71c5bb17352f93cc_3 <https://dblp.org/rdf/schema#signaturePublication> <https://dblp.org/rec/conf/acl/2022-1> .
+<https://dblp.org/rec/conf/acl/2022-1> <https://dblp.org/rdf/schema#primaryDocumentPage> <https://aclanthology.org/volumes/2022.acl-long/> .
+<https://dblp.org/rec/conf/acl/2022-1> <https://dblp.org/rdf/schema#documentPage> <https://aclanthology.org/volumes/2022.acl-long/> .
+<https://dblp.org/rec/conf/acl/2022-1> <https://dblp.org/rdf/schema#listedOnTocPage> <https://dblp.org/db/conf/acl/acl2022-1> .
+<https://dblp.org/rec/conf/acl/2022-1> <https://dblp.org/rdf/schema#yearOfPublication> "2022" .
+<https://dblp.org/rec/conf/acl/2022-1> <https://dblp.org/rdf/schema#publishedBy> "Association for Computational Linguistics" .
+<https://dblp.org/rec/conf/acl/2022-1.nt> <http://www.w3.org/2000/01/rdf-schema#label> "provenance information for RDF data of dblp record 'conf/acl/2022-1'" .
+<https://dblp.org/rec/conf/acl/2022-1.nt> <http://purl.org/dc/terms/creator> <https://dblp.org> .
+<https://dblp.org/rec/conf/acl/2022-1.nt> <http://purl.org/dc/terms/isPartOf> <https://dblp.org/rdf/dblp.nt> .
+<https://dblp.org/rec/conf/acl/2022-1.nt> <http://purl.org/dc/terms/license> <https://creativecommons.org/publicdomain/zero/1.0/> .
+<https://dblp.org/rec/conf/acl/2022-1.nt> <http://purl.org/dc/terms/modified> "2022-05-18T14:53:13+0200" .
