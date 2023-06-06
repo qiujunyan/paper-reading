@@ -1,12 +1,12 @@
-%0 Journal Article
-%T XPrompt: Exploring the Extreme of Prompt Tuning
-%A Ma, Fang
-%A Zhang, Chen
-%A Ren, Lei
-%A Wang, Jingang
-%A Wang, Qifan
-%A Wu, Wei
-%A Quan, Xiaojun
-%A Song, Dawei
-%J arXiv preprint arXiv:2210.04457
-%D 2022
+%0 Conference Proceedings
+%T Long short-term session search: joint personalized reranking and next query prediction
+%A Cheng, Qiannan
+%A Ren, Zhaochun
+%A Lin, Yujie
+%A Ren, Pengjie
+%A Chen, Zhumin
+%A Liu, Xiangyuan
+%A de Rijke, Maarten de
+%B Proceedings of the Web Conference 2021
+%P 239-248
+%D 2021

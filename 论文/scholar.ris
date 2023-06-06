@@ -1,13 +1,7 @@
 %0 Journal Article
-%T TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback
-%A Wang, Jie
-%A Yuan, Fajie
-%A Cheng, Mingyue
-%A Jose, Joemon M
-%A Yu, Chenyun
-%A Kong, Beibei
-%A Wang, Zhijin
-%A Hu, Bo
-%A Li, Zang
-%J arXiv preprint arXiv:2206.06190
+%T MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning
+%A Xu, Zhiyang
+%A Shen, Ying
+%A Huang, Lifu
+%J arXiv preprint arXiv:2212.10773
 %D 2022
